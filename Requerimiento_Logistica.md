@@ -1,6 +1,6 @@
 # Ejemplo de Especificación Funcional - Módulo de Inventario
 
-**Autor:** [Tu Nombre] - Ingeniera de Sistemas
+**Autor:** Veronica Rodriguez - Ingeniera de Sistemas
 **Contexto:** Optimización de flujo de salida de mercancía para logística 3PL.
 
 ## 1. Historia de Usuario
